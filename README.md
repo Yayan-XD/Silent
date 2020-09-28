@@ -76,13 +76,13 @@ python2 Silent.py
 3. Login Akun Facebook Anda ( Tumbal / Old Account )
 <img src="https://github.com/vrhasya/666/blob/master/3.png" />
 
-4. Klik Titik 3
+4. Klik Titik tiga
 <img src="https://github.com/vrhasya/666/blob/master/4.png" />
 
 5. Scroll & Cari Ekstensi Multiple Tools for Facebook yang sudah di Download
 <img src="https://github.com/vrhasya/666/blob/master/5.png" />
 
-6. Klik Titik 3
+6. Klik Titik tiga
 <img src="https://github.com/vrhasya/666/blob/master/6.png" />
 
 7. Klik Access Token

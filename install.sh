@@ -1,5 +1,4 @@
 #bin/bash
-clear
 pkg install figlet
 clear
 figlet YayanXD | lolcat
@@ -12,8 +11,4 @@ echo "Ucapkan yayan ganteng 3X biar work xixixi:v"
 echo 
 pip2 install requests
 clear
-pip2 install mechanize 
-clear
-echo "selesai"
-clear
-python2 Silent.py
+pip2 install mechanize

@@ -1,4 +1,7 @@
 #bin/bash
+clear
+pkg install python
+clear
 pkg install figlet
 clear
 figlet YayanXD | lolcat

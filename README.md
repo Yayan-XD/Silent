@@ -59,8 +59,6 @@ git clone https://github.com/Yayan-XD/Silent
 ### And Silent this script
 ```
 cd Silent
-pip2 install requests
-pip2 install mechanize
 sh install.sh
 python2 Silent.py
 ```

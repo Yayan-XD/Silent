@@ -13,6 +13,7 @@ clear
 pkg install figlet
 clear
 figlet YayanXD | lolcat
+sleep 2
 clear
 figlet YayanXD | lolcat
 clear

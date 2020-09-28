@@ -4,7 +4,7 @@ echo "Tunggu Sampai Proses Selesai Ya Anjing, Sabar..!"
 echo "Kalo Mau Nyolong Ngaca Dulu Ngentot"
 echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
 echo
-pkg install python -y
+pkg install python
 clear
 pkg install ruby -y
 clear

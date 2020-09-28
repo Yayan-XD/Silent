@@ -5,8 +5,11 @@ echo "Kalo Mau Nyolong Ngaca Dulu Ngentot"
 echo "Ucapkan Yayan Ganteng 3x Biar Work Xixixi:v"
 echo
 pkg install python
+clear
 pkg install ruby
+clear
 gem install lolcat
+clear
 pkg install figlet
 clear
 figlet YayanXD | lolcat

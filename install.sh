@@ -6,7 +6,7 @@ echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
 echo
 pkg install python
 clear
-pkg install ruby
+pkg install ruby -y
 clear
 gem install lolcat
 clear

@@ -44,7 +44,7 @@ Cloning semua negara tampa login akun fb,  login token free dari gua tinggal tem
 - Cloning Fb Target 
 - Login Token Via Token
 - Report Akun Facebook Covid+19
-- Multi acc login ( Enakan login token gan biar gak kena chekponit  )
+- Multi acc login ( Login token free dari gua )
 - Mutli type login
    - User pass
    - Token

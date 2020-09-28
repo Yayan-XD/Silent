@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 clear
 pkg install python
 clear

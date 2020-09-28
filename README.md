@@ -7,7 +7,7 @@ Cloning semua negara tampa login akun fb,  login token free dari gua tinggal tem
   🇮🇩TRICKER INDONESIA🇮🇩
 </h4>
 <p align="center">
-<a href="#"><img title="Author by Yayan" src="https://img.shields.io/badge/Coded%20By-YayanXD-green?"></a>
+<a href="#"><img title="Author by Yayan" src="https://img.shields.io/badge/Coded%20By-YayanXD-brightgreen?"></a>
 <a href="#"><img title="Author by YayanXD" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
 <br>
 <a href="https://github.com/Yayan-XD/followers">

@@ -24,8 +24,6 @@ Cloning semua negara tampa login akun fb,  login token free dari gua tinggal tem
   </a>
   <a href="https://github.com/Yayan-XD/Silent">
     <img alt="Search" src="https://img.shields.io/github/search/Yayan-XD/Craker/Silent.svg"/>
-  <a href="https://github.com/Yayan-XD/Silent">
-    <img alt="Shell" src="https://img.shields.io/github/Shell/Yayan-XD/Craker/Silent.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/Silent">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/Silent.svg"/>

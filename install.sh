@@ -8,7 +8,7 @@ clear
 echo
 echo "Tunggu sampai proses selesai ya anjing, SABAR.....!"
 echo "Kalo mau nyolong ngaca dulu ngentot"
-echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan yayan ganteng 3X biar work xixixi:v"
 echo 
 pkg update
 clear
